@@ -1,0 +1,24 @@
+BOOTS ROOTED | WEBSITE LINKS & LAUNCH CHECKLIST
+
+READY NOW
+- Navigation: Home, Training Programs, Host a Farm, Get Involved, Events, Contact.
+- Homepage links to Training Programs, Host a Farm, Get Involved, Events and Our Story.
+- Training application links to the existing Google Form:
+  https://forms.gle/kzZoqzth7zG78TGS7
+- Host, volunteer, sponsor, event and partnership inquiry links open emails to info@bootsrooted.org.
+- Contact form prepares an email in the visitor's default mail app. The visitor must click Send.
+- Phone link uses 713-887-8662.
+- Official uploaded Boots Rooted logo used throughout all six pages.
+
+BEFORE LAUNCH
+[ ] Open Boots Rooted nonprofit bank account.
+[ ] Select and configure donation processor (no live online donations yet).
+[ ] Add official social media profile URLs if desired.
+[ ] Add event-specific registration URLs if/when created.
+[ ] Verify existing Google Form accepts new registrations (external form could not be independently checked).
+[ ] Confirm all published event details, including venue addresses and schedules.
+[ ] Confirm contact email is configured to receive incoming mail.
+[ ] Test the contact email action on a phone and computer with an email application installed.
+[ ] Deploy the website to hosting and test all links again at bootsrooted.org.
+
+NOTE: This is a static site. There is no server-side contact form, online payment processor, or mailing-list subscription service connected yet. The site does not claim donations are tax-deductible while IRS determination is pending.
